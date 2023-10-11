@@ -5,7 +5,14 @@ This repository contains a clone of the landing page for Ideaflow, a company tha
 
 ## Screenshots
 
-[][]
+![image](https://github.com/Tribhuvan-Kumar/ideaflow-landing-page/assets/142161520/30df0b9d-c599-4902-b2b0-dc87632d8c2a)
+
+![image](https://github.com/Tribhuvan-Kumar/ideaflow-landing-page/assets/142161520/09ede162-57f6-40ca-b3d2-0020390747b8)
+
+![image](https://github.com/Tribhuvan-Kumar/ideaflow-landing-page/assets/142161520/0f8ee86c-f096-412c-add7-9dd71f72b293)
+
+![image](https://github.com/Tribhuvan-Kumar/ideaflow-landing-page/assets/142161520/7c211c5b-150b-4f5b-b817-35281149cf67)
+
 
 ## Project Details
 
